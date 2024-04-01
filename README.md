@@ -1,4 +1,6 @@
 # Rsync Synchronization Script
+## Description
+This Rsync Synchronization Script ensures secure data mirroring with a root permission check, clear usage instructions, and versatile sync options for both host-to-remote and remote-to-host directions. It includes the --delete feature for accurate directory mirroring. Users need root access and rsync on both systems. The script accommodates various rsync flags for customized synchronization tasks, highlighting the importance of the trailing slash in source paths for directory contents syncing. For a complete understanding of all rsync capabilities, users are encouraged to consult the rsync manual.
 ## Features
 - Root permission check for secure operation.
 - Usage instructions for clarity and ease of use.
